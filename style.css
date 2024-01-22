@@ -1,0 +1,273 @@
+.outline{
+    background-image: url(xc.jpg);
+}
+#con1{
+position: relative;
+}
+
+#col1{
+    padding-top: 190px;
+
+}
+#col2{
+    padding-top: 140px;
+
+}
+#header1
+{
+    font-size: 96px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: white;
+}
+#para1{
+    font-size: 48px;
+    color:  white;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+button{
+    width: 200px;
+    height: 60px;
+    background-color: red;
+    
+}
+#a1{
+    font-size: 19px;
+    text-transform: uppercase;
+    color: whitesmoke;
+}
+
+button:hover{
+    background-color: rgb(154, 21, 21);
+    color: blueviolet;
+}
+.outline2{
+    background-color: rgba(55, 23, 84, 0.959);
+}
+
+
+
+#col3{
+margin-bottom: 50px;
+
+}
+#col4{
+padding-left: 190px;
+}
+#para2{
+    font-size: 128px;
+    color: white;
+}
+#header2{
+    font-size: 58px;
+    margin-top: 23px;
+    font-weight: bold;
+    color: red;
+
+}
+#para3{
+    font-size: 19px;
+    margin-top: 20px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: white;
+}
+.outline3{
+    background-color: rgba(248, 81, 170, 0.564);
+}
+
+
+#row3{
+    margin-top: 30px;
+
+}
+#col5{
+    padding-top: 190px;
+}
+#col6{
+padding-top: 90px;
+}
+#para4{
+    font-size: 128px;
+    color: white;
+}
+#header3{
+    font-size: 58px;
+    margin-top: 23px;
+    font-weight: bold;
+    color: red;
+
+}
+#para5{
+    font-size: 19px;
+    margin-top: 20px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: white;
+}
+#row4{
+    margin-top: 30px;
+}
+#header4{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    color: #43005d ;
+}
+#row5{
+    margin-top: 70px;
+}
+#header5{
+    font-size: 80px ;
+    text-align: center;
+    color: #f70647 ;
+}
+#para6{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: #43005d ;
+}
+.outline5{
+    margin-top: 200px;
+    width: 100%;
+    height: 80dvh;
+    background-image: url(closeupofthreebusinesspeoplehandsusingtheirsmartphoneswhileridingtheelevator_swgbe9_9r__F0000.jpg) ;
+    background-repeat: no-repeat repeat;
+    background-position: 250px;
+    background-color: #cf84ec;
+    
+}
+#header6
+{
+    font-size: 80px;
+    color:#f70647 ;
+}
+#para7{
+    font-size: 26px;
+    color: rgb(14, 14, 14);
+}
+#name1{
+    width: 437px;
+    height: 45.600px;
+    padding: 10px 12px 10px 12px;
+    margin-bottom: 10px;
+    background: none;
+    border: 1px solid red;
+    color: white;
+}
+#email1{
+    width: 437px;
+    height: 45.600px;
+    padding: 10px 12px 10px 12px;
+    margin-top: 20px;
+   margin-bottom: 10px;
+   background: none;
+   border: 1px solid red;
+   color: white;
+}
+#msg1{
+    width: 437px;
+    height: 150px;
+    padding: 10px 12px 10px 12px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background: none;
+    border: 1px solid red;
+    color: white;
+}
+#sub1{
+    width:128px ;
+    height: 45px;
+    font-size: 16px;
+    margin-top: 20px;
+    color: white;
+    background-color: #e30813;
+    
+    border: 1px solid red;
+}
+#col12{
+    padding-top: 80px;
+}
+#col13{
+    padding-top: 80px;
+    padding-left: 40px;
+}
+#para8{
+    font-size: 128px;
+    color: white;
+    padding-top: 150px;
+    padding-left: 9px;
+}
+#col14{
+    background-color: #43005d;
+    
+}
+#header8{
+    font-size: 50px;
+    font-weight: 400;
+    color: #f70647;
+    padding-top: 55px;
+    padding-left: 9px;
+}
+#para9{
+    font-size: 20px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 1px;
+    margin-top: 10px;
+}
+#header9
+{
+    font-size: 52px;
+    color: #e30813;
+    padding-left: 50px;
+
+}
+#para10{
+    font-size: 20px;
+    line-height: 1.86;
+    padding-left: 50px;
+}
+
+#col15{
+    background-color: rgb(252, 238, 246);
+    overflow: hidden;
+}
+.outline7{
+    background-image: url(xc.jpg);
+    background-repeat: no-repeat;
+    /* object-fit: cover; */
+    background-size: cover;
+}
+#col16{
+    margin-top: 50px;
+}
+#header10{
+font-size: 68px;
+color: #f70647;
+margin-bottom: 20px;
+}
+#para11{
+    font-size: 23px;
+    color: white;
+    margin-bottom: 50px;
+}
+#img2{
+    margin-bottom: 20px;
+
+}
+#image2
+{
+    padding-right: 20px;
+}
+#column1{
+    overflow-x: hidden;
+}
+#column2{
+    overflow-x: hidden;
+}
+
